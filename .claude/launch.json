@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "minirin-site", "runtimeExecutable": "python3", "runtimeArgs": ["-m", "http.server", "5178", "--directory", "/Users/juliakim/Projects/minirin-site"], "port": 5178 }
+  ]
+}

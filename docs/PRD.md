@@ -28,6 +28,7 @@
 - 《노르웨이 엄마의 힘》 — 기획출판, 종이책·오디오북, 중국 판권 수출(2017)
 - 《노르웨이 사계절과 문화 여행》 — 종이책·전자책(2025)
 - 《초보 전자책 작가를 위한 글쓰기 셀프 코칭》 — 전자책
+- 9인 공저 《경험이 질문하고, AI가 답하다》 — 퍼플, 2026년 12월 1일 발행 표기(POD), 「AI 시대, 글쓰기의 경계를 찾아서」 집필 (2026-11-13 추가)
 
 **함께 만든 책 (기획·편집·교정교열)**
 - 10인 공저 《아티스트 웨이, 우리 함께》 — 2025년 5월 종이책(POD)·전자책 출간, 132쪽, 밀리의서재 수록
@@ -55,6 +56,7 @@
 - 《노르웨이 엄마의 힘》 황소북스, 2017.09 — https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=117343499
 - 《노르웨이 사계절과 문화 여행》 오브북, 2025.06 — 종이책 https://aladin.kr/p/UR97H · 전자책 https://aladin.kr/p/LR9ae
 - 《초보 전자책 작가를 위한 글쓰기 셀프 코칭》 — https://curious-500.com/v2/digital-content/29
+- 《경험이 질문하고, AI가 답하다》 퍼플, 2026 — https://product.kyobobook.co.kr/detail/S000221943930
 - 《브랜딩 에세이 이렇게 써 보세요》 큐리어스, 2024.01 — https://curious-500.com/v2/digital-content/151
 - 《아티스트 웨이, 우리 함께》 2025.05 — 종이책 https://aladin.kr/p/vRRxI · 전자책 https://aladin.kr/p/wE6tQ
 - 《전문면접관》 교정교열, 리커리어북스 2024.01 — https://product.kyobobook.co.kr/detail/S000212196089
